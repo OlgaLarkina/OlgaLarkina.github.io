@@ -18,3 +18,6 @@ title: About
 >
 > Омар Хайям
 ![](https://img.rl0.ru/ade0564247bd4659889272f031240812/c615x400/news.rambler.ru/img/weekend/2017/12/25204249.865482.9260.jpg)
+
+- Я уже 3.5 года вожу машину:
+ ![](https://otvet.imgsmail.ru/download/bffd0c78e9925e2a2e6f407c3ebd33ad_i-4189.jpg "но это не про меня))")
