@@ -1,1 +1,4 @@
-page
+---
+layout: page
+title: Фрагмент кода
+---
