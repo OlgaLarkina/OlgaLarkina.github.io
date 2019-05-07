@@ -22,3 +22,6 @@ title: Обо мне
 - Я уже 3.5 года вожу машину:
 
  ![](https://otvet.imgsmail.ru/download/bffd0c78e9925e2a2e6f407c3ebd33ad_i-4189.jpg "но это не про меня))")
+ 
+ -Это моя страничка вк:
+ (https://vk.com/id71858025)
